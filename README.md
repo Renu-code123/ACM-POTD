@@ -35,6 +35,7 @@ ACM-POTD/
 ├── README.md
 ├── Day-wise Solutions/
 │   ├── RenuKumariPrajapati_22-03-26_Day-1.md
+├── Day-wise Solutions/
 │   ├── RenuKumariPrajapati_23-03-26_Day-2.md
 │   └── ...
 ```
