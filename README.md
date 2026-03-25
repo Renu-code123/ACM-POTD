@@ -17,14 +17,15 @@
 
 ## 🚀 ⌜ PROGRESS TRACKER ⌟
 
-![Progress](https://img.shields.io/badge/Progress-0%25-red?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Progress-~11.8%25-red?style=for-the-badge)
 
 | Day   | Date       | Problem | Status |
 | ----- | ---------- | ------- | ------ |
 | Day 1 | 22-03-2026 | 🔗      | ✅    |
 | Day 2 | 23-03-2026 | 🔗      | ✅     |
 | Day 3 | 24-03-2026 | 🔗      | ✅  |
-| Day 4 | 25-03-2026 | 🔗      | ⏳      |
+| Day 4 | 25-03-2026 | 🔗      |  ✅     |
+| Day 5 | 26-03-2026 | 🔗      | ⏳      |
 
 ---
 
