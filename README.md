@@ -24,8 +24,9 @@
 | Day 1 | 22-03-2026 | 🔗      | ✅    |
 | Day 2 | 23-03-2026 | 🔗      | ✅     |
 | Day 3 | 24-03-2026 | 🔗      | ✅  |
-| Day 4 | 25-03-2026 | 🔗      |  ✅     |
-| Day 5 | 26-03-2026 | 🔗      | ⏳      |
+| Day 4 | 25-03-2026 | [🔗](https://leetcode.com/problems/missing-number/description/)      |  ✅     |
+| Day 5 | 26-03-2026 | [🔗](https://leetcode.com/problems/move-zeroes/)      | ✅       |
+| Day 6 | 27-03-2026 | 🔗      |    ⏳ |
 
 ---
 
