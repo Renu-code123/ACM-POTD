@@ -27,6 +27,7 @@
 | Day 4 | 25-03-2026 | [🔗](https://leetcode.com/problems/missing-number/description/)      |  ✅     |
 | Day 5 | 26-03-2026 | [🔗](https://leetcode.com/problems/move-zeroes/)      | ✅       |
 | Day 6 | 27-03-2026 | [🔗](https://leetcode.com/problems/check-if-n-and-its-double-exist/)     |    ✅ |
+| Day 7| 28-03-2026 | [🔗](https://leetcode.com/problems/rotate-array/)     |     ✅ |
 | Day 7| 28-03-2026 | 🔗      |    ⏳ |
 
 ---
