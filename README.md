@@ -31,7 +31,8 @@
 | Day 8| 29-03-2026 | [🔗](https://leetcode.com/problems/reverse-linked-list/submissions/1963099077/)     |   ✅ |
 | Day 9| 30-03-2026 | [🔗](https://leetcode.com/problems/reverse-linked-list/submissions/1963099077/)      |    ✅ |
 | Day 10| 31-03-2026 | [🔗](https://leetcode.com/problems/middle-of-the-linked-list/submissions/1965083026/)     |   ✅ |
-| Day 11| 1-04-2026 | [🔗]      |    ⏳ |
+| Day 11| 1-04-2026 | [🔗](https://leetcode.com/problems/merge-two-sorted-lists/)     |  ✅   |
+| Day 12| 2-04-2026 | [🔗]      |    ⏳ |
 
 ---
 
