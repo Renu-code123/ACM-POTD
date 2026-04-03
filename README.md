@@ -33,7 +33,8 @@
 | Day 10| 31-03-2026 | [🔗](https://leetcode.com/problems/middle-of-the-linked-list/submissions/1965083026/)     |   ✅ |
 | Day 11| 1-04-2026 | [🔗](https://leetcode.com/problems/merge-two-sorted-lists/)     |  ✅   |
 | Day 12| 2-04-2026 | [🔗](https://leetcode.com/problems/remove-duplicates-from-sorted-list/submissions/1967087276/)      |    ✅ |
-| Day 13| 3-04-2026 | [🔗]      |    ⏳ |
+| Day 13| 3-04-2026 | [🔗](https://leetcode.com/problems/intersection-of-two-linked-lists/submissions/1967963587/)      |    ✅  |
+| Day 14| 4-04-2026 | [🔗]      |    ⏳ |
 
 ---
 
