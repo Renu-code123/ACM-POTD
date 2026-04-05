@@ -35,7 +35,8 @@
 | Day 12| 2-04-2026 | [🔗](https://leetcode.com/problems/remove-duplicates-from-sorted-list/submissions/1967087276/)      |    ✅ |
 | Day 13| 3-04-2026 | [🔗](https://leetcode.com/problems/intersection-of-two-linked-lists/submissions/1967963587/)      |    ✅  |
 | Day 14| 4-04-2026 | [🔗](https://leetcode.com/problems/palindrome-linked-list/submissions/1968753428/)      |    ✅ |
-| Day 15| 5-04-2026 | [🔗]      |    ⏳ |
+| Day 15| 5-04-2026 | [🔗](https://leetcode.com/problems/valid-parentheses/)      |    ✅ |
+| Day 16| 6-04-2026 | [🔗]      |    ⏳ |
 
 ---
 
