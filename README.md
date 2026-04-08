@@ -38,7 +38,8 @@
 | Day 15| 5-04-2026 | [🔗](https://leetcode.com/problems/valid-parentheses/)      |    ✅ |
 | Day 16| 6-04-2026 | [🔗](https://leetcode.com/problems/valid-parentheses/submissions/1970859071/)      |    ✅ |
 | Day 17| 7-04-2026 | [🔗](https://leetcode.com/problems/implement-stack-using-queues/submissions/1971778710/)      |    ✅ |
-| Day 18| 8-04-2026 | [🔗]      |    ⏳ |
+| Day 18| 8-04-2026 | [🔗](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/submissions/1972886284/)      |    ✅ |
+| Day 19| 9-04-2026 | [🔗]      |    ⏳ |
 
 
 ---
