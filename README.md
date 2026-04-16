@@ -40,7 +40,15 @@
 | Day 17| 7-04-2026 | [🔗](https://leetcode.com/problems/implement-stack-using-queues/submissions/1971778710/)      |    ✅ |
 | Day 18| 8-04-2026 | [🔗](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/submissions/1972886284/)      |    ✅ |
 | Day 19| 9-04-2026 | [🔗](https://leetcode.com/problems/backspace-string-compare/submissions/1973765664/)     |    ✅ |
-| Day 19| 9-04-2026 | [🔗]      |    ⏳ |
+| Day 20| 10-04-2026 | [🔗]      |    ✅ |
+| Day 21| 11-04-2026 | [🔗]      |    ✅ |
+| Day 22| 12-04-2026 | [🔗]      |    ✅ |
+| Day 23| 13-04-2026 | [🔗]      |    ✅ |
+| Day 24| 14-04-2026 | [🔗]      |    ✅ |
+| Day 25| 15-04-2026 | [🔗]      |    ✅ |
+| Day 26| 16-04-2026 | [🔗](https://leetcode.com/problems/invert-binary-tree/submissions/1980267203/)      |    ✅ |
+| Day 27| 17-04-2026 | [🔗]      |    ⏳ |
+
 
 
 ---
