@@ -47,7 +47,9 @@
 | Day 24| 14-04-2026 | [🔗]      |    ✅ |
 | Day 25| 15-04-2026 | [🔗]      |    ✅ |
 | Day 26| 16-04-2026 | [🔗](https://leetcode.com/problems/invert-binary-tree/submissions/1980267203/)      |    ✅ |
-| Day 27| 17-04-2026 | [🔗]      |    ⏳ |
+| Day 27| 17-04-2026 | [🔗]      |    ✅ |
+| Day 28| 18-04-2026 | [🔗](https://leetcode.com/problems/subtree-of-another-tree/)      |   ✅  |
+| Day 29| 19-04-2026 | [🔗]      |    ⏳ |
 
 
 
