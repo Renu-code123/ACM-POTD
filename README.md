@@ -50,7 +50,7 @@
 | Day 27| 17-04-2026 | [🔗]      |    ✅ |
 | Day 28| 18-04-2026 | [🔗](https://leetcode.com/problems/subtree-of-another-tree/)      |   ✅  |
 | Day 29| 19-04-2026 | [🔗](https://leetcode.com/problems/fibonacci-number/submissions/1982837183/)      |    ✅ |
-| Day 30| 20-04-2026 | [🔗]      |    ⏳ |
+| Day 30| 20-04-2026 | [🔗]      |    ✅ |
 | Day 31| 21-04-2026 | [🔗]      |    ✅ |
 | Day 32| 22-04-2026 | [🔗]      |    ✅ |
 | Day 33| 23-04-2026 | [🔗]      |    ✅ |
